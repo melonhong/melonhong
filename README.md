@@ -1,9 +1,44 @@
+# 👋 Hi, I'm Seo Yoon (정서윤)
+
+🎓 Computer Science Student @ Sungshin Women's University  
+💻 Passionate about DevOps, IoT, and building scalable backend systems  
+🌱 Currently learning Spring Boot, OAuth2, and Kubernetes  
+📫 Contact: melonhong46@gmail.com
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Languages & Frameworks  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### ☁️ Cloud & DevOps  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### 📡 Communication & APIs  
+![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square&logo=apachespark&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+
+### 🧰 Tools & Collaboration  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+
+---
+
 ## 💼 Projects / 프로젝트
 
 ### 🛰️ IAmHere – IoT Attendance System (스마트 출석 관리 시스템)
 
 **Role / 역할**: IoT Developer  
-**Period / 개발 기간**: 2025.03-2025.06 
+**Period / 개발 기간**: 2025.03 - 2025.06  
 **Team / 팀 구성**: 4명 (IoT, 서버, DB, 앱)
 
 📌 **Overview**  
@@ -22,7 +57,7 @@ A smart attendance system using Raspberry Pi and fingerprint sensor. It automate
 ### 🍽️ 요리조리 – Microservice + GCP Deployment
 
 **Role / 역할**: Backend & DevOps  
-**Period / 개발 기간**: 2025.03-2025.06 
+**Period / 개발 기간**: 2025.03 - 2025.06  
 **Team / 팀 구성**: 3명 (마이크로서비스 전환 담당)
 
 📌 **Overview**  
@@ -42,7 +77,7 @@ Refactored a monolithic Node.js community site into microservices and deployed o
 ### 🚀 써도되나? – CI/CD Pipeline with Jenkins
 
 **Role / 역할**: DevOps Engineer  
-**Period / 개발 기간**: 2024.09-2024.12 
+**Period / 개발 기간**: 2024.09 - 2024.12  
 **Team / 팀 구성**: 5 members
 
 📌 **Overview**  
@@ -61,7 +96,7 @@ Jenkins 기반 CI/CD 파이프라인 자동화 및 슬랙 알림, 무중단 배�
 ### 🌱 DevWave 2025 – Vegan Map App Planning (지속가능 소비 지도 앱)
 
 **Role / 역할**: Planner / UX Designer  
-**Period / 개발 기간**: 2025.02
+**Period / 개발 기간**: 2025.02  
 **Team / 팀 구성**: 4명 (한국 2, 대만 1)
 
 📌 **Overview**  
@@ -69,7 +104,7 @@ Planned a location-based vegan lifestyle app in an international ideathon. Focus
 비건 식당, 제로웨이스트 카페 등을 찾을 수 있는 환경 가치 중심 지도 앱 기획
 
 ⚙️ **Tools**  
-`Figma` `Google Docs` `Google Meet` (영어 커뮤니케이션)
+`Figma` `Google Docs` `Discord` (영어 커뮤니케이션)
 
 🏆 **Impact**  
 - 전체 참가 5팀 중 **2위 수상**  
@@ -77,3 +112,18 @@ Planned a location-based vegan lifestyle app in an international ideathon. Focus
 - UX 기반 환경 문제 해결 기획 경험  
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melonhong&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melonhong&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Let's Connect
+
+📧 melonhong46@gmail.com  
+💬 [GitHub Issues](https://github.com/melonhong/melonhong/issues)로 질문 남겨주세요!
+
