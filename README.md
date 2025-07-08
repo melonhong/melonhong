@@ -46,7 +46,7 @@ A smart attendance system using Raspberry Pi and fingerprint sensor. It automate
 라즈베리파이 + 지문 인식 센서 기반의 출석 자동화 시스템
 
 ⚙️ **Tech Stack**  
-`Python` `Raspberry Pi` `Bluetooth` `REST API` `RPi.GPIO`
+`Python` `Raspberry Pi` `Bluetooth`
 
 🏆 **Impact**  
 - 출석 처리 시간 90% 단축  
@@ -58,7 +58,7 @@ A smart attendance system using Raspberry Pi and fingerprint sensor. It automate
 
 **Role / 역할**: Backend & DevOps  
 **Period / 개발 기간**: 2025.03 - 2025.06  
-**Team / 팀 구성**: 3명 (커뮨니티 마이크로서비스 전환 담당)
+**Team / 팀 구성**: 3명 (커뮤니티 마이크로서비스 전환 담당)
 
 📌 **Overview**  
 Refactored a monolithic Node.js community site into microservices and deployed on GCP using Kubernetes.  
