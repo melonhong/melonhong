@@ -58,17 +58,16 @@ A smart attendance system using Raspberry Pi and fingerprint sensor. It automate
 
 **Role / 역할**: Backend & DevOps  
 **Period / 개발 기간**: 2025.03 - 2025.06  
-**Team / 팀 구성**: 3명 (마이크로서비스 전환 담당)
+**Team / 팀 구성**: 3명 (커뮨니티 마이크로서비스 전환 담당)
 
 📌 **Overview**  
 Refactored a monolithic Node.js community site into microservices and deployed on GCP using Kubernetes.  
-기존 모놀리식 서비스를 4개 마이크로서비스로 분리해 GCP에 배포한 프로젝트
+기존 모놀리식 서비스를 5개의 마이크로서비스로 분리해 GCP에 배포한 프로젝트
 
 ⚙️ **Tech Stack**  
 `Node.js` `Express` `Docker` `Kubernetes` `GCP`
 
-🏆 **Impact**  
-- 배포 시간 70% 단축  
+🏆 **Impact**    
 - 독립적 스케일링 구조 확보  
 - 장애 격리로 가용성 향상  
 
@@ -95,9 +94,9 @@ Jenkins 기반 CI/CD 파이프라인 자동화 및 슬랙 알림, 무중단 배�
 
 ### 🌱 DevWave 2025 – Vegan Map App Planning (지속가능 소비 지도 앱)
 
-**Role / 역할**: Planner / UX Designer  
+**Role / 역할**: Planner / UI Designer  
 **Period / 개발 기간**: 2025.02  
-**Team / 팀 구성**: 4명 (한국 2, 대만 1)
+**Team / 팀 구성**: 3명 (한국 2, 대만 1)
 
 📌 **Overview**  
 Planned a location-based vegan lifestyle app in an international ideathon. Focused on sustainability and usability.  
