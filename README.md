@@ -50,7 +50,10 @@ A smart attendance system using Raspberry Pi and fingerprint sensor. It automate
 
 🏆 **Impact**  
 - 출석 처리 시간 90% 단축  
-- 출석 정확도 98% 달성  
+- 출석 정확도 98% 달성
+
+🔗 **Project Link**  
+[IAmHere](https://github.com/melonhong/IAmHere)
 
 ---
 
@@ -71,6 +74,9 @@ Refactored a monolithic Node.js community site into microservices and deployed o
 - 독립적 스케일링 구조 확보  
 - 장애 격리로 가용성 향상  
 
+🔗 **Project Link**  
+[CC_Yorijori_community](https://github.com/melonhong/CC_Yorijori_community)
+
 ---
 
 ### 🚀 써도되나? – CI/CD Pipeline with Jenkins
@@ -88,7 +94,10 @@ Jenkins 기반 CI/CD 파이프라인 자동화 및 슬랙 알림, 무중단 배�
 
 🏆 **Impact**  
 - 배포 시간 85% 단축   
-- 휴먼 에러 최소화, 생산성 향상  
+- 휴먼 에러 최소화, 생산성 향상
+
+🔗 **Project Link**  
+[CI-CD_canIuseit](https://github.com/melonhong/CI-CD_canIuseit)
 
 ---
 
